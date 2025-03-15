@@ -1,0 +1,300 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url('https://c1.wallpaperflare.com/preview/725/227/785/background-mandala-background-pattern-kaleidoscope.jpg'); /* Replace with your image URL */
+    background-size:cover;
+    color: #0d0c0c;
+    text-align: center;
+}
+
+.header {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    background: rgba(0, 0, 0, 0.5);
+}
+.button {
+
+    border: 2px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    margin: 0 10px;
+    transition: background 0.3s;
+}
+.meditation-button{
+    
+    background-color: #FFA500;
+    color: black;
+    font-weight: 800;
+}
+.sleep-button{
+    color: black;
+    background-color: rgb(186, 159, 123);
+    font-weight: 800;
+}
+.stress-button{
+    color: black;
+    background-color: aqua;
+    font-weight:800 ;
+}
+.mindfulness-button{
+    color: black;
+    font-weight: 800;
+    background-color: rgb(238, 167, 116);
+}
+
+.button:hover {
+    background-color: rgb(62, 195, 225);
+}
+.login-btn {
+    background-color: rgb(10, 237, 101);
+    color: black;
+    border-radius: 15px;
+    padding: 10px 20px;
+    margin-top: 20px;
+    font-weight: 600;
+    transition: background 0.3s;
+    
+}
+.login-btn:hover {
+    background-color: rgb(179, 177, 177);
+}
+h1 {
+    color: rgb(255, 255, 255);
+    font-size: 28px;
+    margin-top: 20px;
+    text-align: center;
+    font-weight: 800;
+}
+h2 {
+    color: #000000;
+    font-size: 22px;
+    margin: 10px 0;
+    font-weight: 400;
+   
+}
+
+body {
+    background-image: url('https://www.shutterstock.com/image-vector/meditating-human-lotus-pose-yoga-600nw-1145960876.jpg'); /* Replace with your background image URL */
+    font-family: Arial, sans-serif;
+    color: rgb(12, 11, 11);
+    text-align: center;
+    padding-top: 50px;
+    background-size: cover;
+}
+.container {
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 20px;
+    border-radius: 10px;
+    width: 300px;
+    margin: auto;
+}
+input[type="text"], input[type="email"], input[type="number"] {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 5px;
+    border: none;
+}
+.gender {
+    margin: 10px 0;
+}
+button {
+    background-color: #00BFFF;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 100%;
+}
+button:hover {
+    background-color: #1E90FF;
+}
+ 
+body {
+    font-family: Arial, sans-serif;
+    background-image: url('https://www.shutterstock.com/image-vector/meditating-human-lotus-pose-yoga-600nw-1145960876.jpg'); /* Add your background image URL */
+    background-size: cover;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.card {
+    background: rgba(255, 255, 255, 0.3);
+    border-radius: 10px;
+    width: 250px;
+    margin: 15px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+.card img {
+    width: 100%;
+    border-radius: 10px;
+}
+h2 {
+    font-size: 1.5em;
+    color: rgb(223, 223, 223);
+    font-weight: 800;
+}
+p {
+    font-size: 1em;
+    color: #0d0c0c;
+} 
+
+body {
+    background: url('https://www.shutterstock.com/image-vector/meditating-human-lotus-pose-yoga-600nw-1145960876.jpg');
+    background-size: cover;
+    font-family: Arial, sans-serif;
+    color: rgb(22, 21, 21);
+    text-align: center;
+}
+h1 {
+    background-color: #e6e2dd;
+    padding: 10px;
+    border-radius: 5px;
+}
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 20px;
+}
+.item {
+    background-color: rgba(238, 233, 233, 0.875);
+    color: #e6e2dd;
+    border-radius: 10px;
+    margin: 15px;
+    padding: 10px;
+    width: 200px;
+    overflow: hidden;
+}
+.item img {
+    width: 100%;
+    border-radius: 10px;
+}
+.p{
+    color: #e6e2dd;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background: url('https://www.shutterstock.com/image-vector/meditating-human-lotus-pose-yoga-600nw-1145960876.jpg') no-repeat center center fixed; /* Change URL to your background */
+    background-size: cover;
+    color: white;
+    text-align: center;
+    padding-top: 50px;
+}
+h1 {
+    background-color: #f1c40f;
+    padding: 10px;
+    border-radius: 8px;
+    display: inline-block;
+}
+.container {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+.sleep-category {
+    background: rgba(255, 255, 255, 0.8);
+    border-radius: 10px;
+    margin: 20px;
+    padding: 20px;
+    width: 300px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+}
+.sleep-category img {
+    width: 100%;
+    border-radius: 10px;
+}
+.sleep-category h2 {
+    margin: 15px 0 0;
+    color: #2c3e50;
+}
+
+body {
+    background: url('https://www.shutterstock.com/image-vector/meditating-human-lotus-pose-yoga-600nw-1145960876.jpg'); /* Replace with your background image */
+    background-size: cover;
+    font-family: Arial, sans-serif;
+    color: white;
+    text-align: center;
+}
+h1 {
+    background-color: #b3e0f2; /* Light blue background for the title */
+    display: inline-block;
+    padding: 10px 20px;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+.container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 20px auto;
+    width: 80%;
+}
+.card {
+    background-color: rgba(255, 255, 255, 0.8); /* Semi-transparent white */
+    border-radius: 15px;
+    margin: 10px;
+    padding: 20px;
+    width: 250px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+.card img {
+    width: 100%; /* Adjust the image size */
+    border-radius: 15px;
+}
+.card h2 {
+    margin: 10px 0 0;
+    font-size: 22px;
+    color: black;
+}
+
+body {
+    background: url('https://www.shutterstock.com/image-vector/meditating-human-lotus-pose-yoga-600nw-1145960876.jpg');
+    background-size: cover;
+    font-family: Arial, sans-serif;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+h1 {
+    background-color: #FFA500; /* Orange background */
+    display: inline-block;
+    padding: 10px 20px;
+    border-radius: 10px;
+    margin-bottom: 40px;
+}
+.container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+.card {
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 15px;
+    overflow: hidden;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+    width: 300px;
+}
+.card img {
+    width: 100%;
+    height: auto;
+}
+.card-title {
+    font-size: 20px;
+    padding: 10px;
+    font-weight: bold;
+    background-color: rgba(0, 0, 0, 0.7);
+    color: #fff;
+}
